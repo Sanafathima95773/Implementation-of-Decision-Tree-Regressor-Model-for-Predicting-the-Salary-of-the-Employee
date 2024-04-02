@@ -28,34 +28,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 ```
 /
 
-## Output:
-Head:
 
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](https://github.com/RanjithD18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/1.jpg)
 
-Info:
-
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](https://github.com/RanjithD18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/2.jpg)
-
-Isnull:
-
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](https://github.com/RanjithD18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/3.jpg)
-
-Head using label encoder:
-
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](https://github.com/RanjithD18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/4.jpg)
-
-Mean square error:
-
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](https://github.com/RanjithD18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/5.jpg)
-
-r2:
-
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](https://github.com/RanjithD18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/6.jpg)
-
-Array:
-
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](https://github.com/RanjithD18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/7.png)
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
