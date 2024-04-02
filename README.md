@@ -56,7 +56,19 @@ r2=metrics.r2_score(y_test,y_pred)
 r2
 dt.predict([[5,6]])
 ```
-
+## Output:
+Data.Head()
+![image](https://github.com/Sanafathima95773/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/147084627/545d9019-95e9-4f14-8551-cc2d6c130914)
+Data.info()
+![image](https://github.com/Sanafathima95773/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/147084627/6913f4c5-fa27-4d3a-b3f9-cb7ccda1313b)
+Data.Head() for salary:
+![image](https://github.com/Sanafathima95773/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/147084627/f051dde0-31c5-4375-82d7-1b66c9eef7b5)
+MSE Value:
+![image](https://github.com/Sanafathima95773/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/147084627/38da8560-17b1-46c4-8437-a723ffe7918e)
+r2 Value:
+![image](https://github.com/Sanafathima95773/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/147084627/7d3f6b58-802c-4542-8b17-65d67565bf6e)
+Data Prediction:
+![image](https://github.com/Sanafathima95773/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/147084627/08ead326-2df7-48f1-af69-f48fd9c62315)
 
 
 ## Result:
